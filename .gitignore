@@ -265,4 +265,4 @@ $RECYCLE.BIN/
 data/db/*
 
 #users
-drivers/chromedriver
+models/
