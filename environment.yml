@@ -23,4 +23,5 @@ dependencies:
   - seaborn
   - statsmodels
   - xlrd
+  - imbalanced-learn
 prefix: /opt/anaconda3/envs/ml-py3.12
